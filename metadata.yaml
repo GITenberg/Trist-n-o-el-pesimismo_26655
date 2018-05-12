@@ -1,0 +1,32 @@
+_repo: Trist-n-o-el-pesimismo_26655
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26655'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction'
+- !lcc 'PQ'
+title: Tristán o el pesimismo
+url: http://www.gutenberg.org/ebooks/26655
